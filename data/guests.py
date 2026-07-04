@@ -394,7 +394,7 @@ OFFER_CATALOG = {
         "Gaming $1500": {"cost": 1500, "eligible_segments": ["High Roller"]},
         "Gaming $2000": {"cost": 2000, "eligible_segments": ["High Roller"]},
         "Gaming $3000": {"cost": 3000, "eligible_segments": ["High Roller", "Whale"]},
-        "Gaming $5000": {"cost": 5000, "eligible_segments": ["Whale"]},
+        "Gaming $5000": {"cost": 5000, "eligible_segments": ["High Roller", "Whale"]},
         "Gaming $8000": {"cost": 8000, "eligible_segments": ["Whale"]},
     },
     "shows": {
